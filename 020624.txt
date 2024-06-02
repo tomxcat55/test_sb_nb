@@ -1,1 +1,2 @@
 line 1 for test 
+lene 2 to check merge command
